@@ -1,14 +1,17 @@
+<script setup lang="ts">
+definePageMeta({
+  layout: false,
+})
+
+useSeoMeta({
+  title: 'Laya 分类历史',
+})
+</script>
+
 <template>
-  <div
-    class="
-      flex flex-col justify-center overflow-x-clip bg-background text-foreground
-    "
-  >
-    <HomeHero />
-    <HomeLogos />
-    <HomeFeatures />
-    <HomeStats />
-    <HomeTestimonials />
-    <HomeCta />
-  </div>
+  <iframe
+    src="https://laya.1919919.xyz/"
+    title="Laya 分类历史"
+    style="width: 100%; height: 100vh; height: 100dvh; border: 0; display: block;"
+  />
 </template>
