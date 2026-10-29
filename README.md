@@ -70,7 +70,7 @@
 >
 > For professional / business needs (managed service, multi-user, SLA, and more), use **[S.EE](https://sink.cool/see)**.
 
-## 🪧 Demo
+## 🪧 Demo deploy
 
 Experience the demo at [Sink.Cool](https://sink.cool/dashboard). Log in using the Site Token below:
 
